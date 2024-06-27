@@ -1,0 +1,24 @@
+.titulo {
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.text {
+    margin-right: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content:left;
+    align-items: center;
+}
+
+.text2 {
+    margin-right: 50px;
+}
